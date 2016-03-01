@@ -1,23 +1,23 @@
 menu:
-    Blog: /
-    Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    首页: /
+    归档: /archives/
+    微博: http://weibo.com/xxl2012
+    GitHub: https://github.com/foojolt
     Rss: /atom.xml
 
-favicon: /favicon.png
-logo: /favicon.png
+favicon: /foojolt.jpeg
+logo: /foojolt.jpeg
 
 # Comment
 # e.g disqus: seansun
 disqus:
-duoshuo: 
+duoshuo: foojolt
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: UA-74439863-1
 # baidu-analytics:
-ba: //hm.baidu.com/hm.js?a36e15d9e2adec9a21fcdd9f686b1ed2
+ba: //hm.baidu.com/hm.js?903647bb2221f65fb515f136517cc37f
 
 # Copyright Infomation
 startyear: 2015

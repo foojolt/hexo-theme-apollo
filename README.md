@@ -1,3 +1,10 @@
+
+修改部分：
+
+* 首页增加评论
+* 默认在首页显示最新一篇博客的完整内容
+* 背景色
+
 ![hexo-theme-apollo](https://cloud.githubusercontent.com/assets/9530963/13026956/08e76eca-d277-11e5-8bfc-2e80cea20a0d.png)
 
 ## 文档
